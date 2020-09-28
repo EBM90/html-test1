@@ -4,14 +4,14 @@
 }
 
 header {
-    background-color: aqua;
+    background-color: turquoise;
     height: 100px;
     font-size: 35px;
     font-weight: bold;
 }
 
 nav {
-    background-color: crimson;
+    background-color: salmon;
     height: 100px;
     font-size: 25px;
     font-weight: bold;
@@ -48,7 +48,7 @@ section {
 
 aside {
     display: inline-block;
-    background-color: beige;
+    background-color: gray;
     height: 150px;
     width: 29%;
     vertical-align: top;
