@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: aqua;
+    height: 100px;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+nav {
+    background-color: crimson;
+    height: 100px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+section {
+    background-color: yellow;
+    height: min-content;
+    width: 70%;
+    display: inline-block;
+    vertical-align: top bottom;
+}
+
+#article1 {
+    background-color: goldenrod;
+    height: min-content;
+    margin: 10px 10px;
+    font-size: 20px;
+}
+
+#article2 {
+    background-color: goldenrod;
+    height: min-content;
+    margin: 10px 10px;
+}
+
+#article1 p {
+    font-size: 15px;
+}
+
+#article2 p {
+    font-size: 15px;
+}
+
+aside {
+    display: inline-block;
+    background-color: beige;
+    height: 150px;
+    width: 29%;
+    vertical-align: top;
+}
+
+footer {
+    background-color: cyan;
+    height: 100px;
+}
